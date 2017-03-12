@@ -1,0 +1,12 @@
+c:\users\william\documents\visual studio 2015\Projects\passingRefrenceTypes\passingRefrenceTypes\bin\Debug\passingRefrenceTypes.exe.config
+c:\users\william\documents\visual studio 2015\Projects\passingRefrenceTypes\passingRefrenceTypes\bin\Debug\passingRefrenceTypes.exe
+c:\users\william\documents\visual studio 2015\Projects\passingRefrenceTypes\passingRefrenceTypes\bin\Debug\passingRefrenceTypes.pdb
+c:\users\william\documents\visual studio 2015\Projects\passingRefrenceTypes\passingRefrenceTypes\obj\Debug\passingRefrenceTypes.csprojResolveAssemblyReference.cache
+c:\users\william\documents\visual studio 2015\Projects\passingRefrenceTypes\passingRefrenceTypes\obj\Debug\passingRefrenceTypes.exe
+c:\users\william\documents\visual studio 2015\Projects\passingRefrenceTypes\passingRefrenceTypes\obj\Debug\passingRefrenceTypes.pdb
+C:\Users\William\Documents\Visual Studio 2015\Projects\Basics\SabioCSharp\passingRefrenceTypes\passingRefrenceTypes\bin\Debug\passingRefrenceTypes.exe.config
+C:\Users\William\Documents\Visual Studio 2015\Projects\Basics\SabioCSharp\passingRefrenceTypes\passingRefrenceTypes\obj\Debug\passingRefrenceTypes.exe
+C:\Users\William\Documents\Visual Studio 2015\Projects\Basics\SabioCSharp\passingRefrenceTypes\passingRefrenceTypes\obj\Debug\passingRefrenceTypes.pdb
+C:\Users\William\Documents\Visual Studio 2015\Projects\Basics\SabioCSharp\passingRefrenceTypes\passingRefrenceTypes\obj\Debug\passingRefrenceTypes.csprojResolveAssemblyReference.cache
+C:\Users\William\Documents\Visual Studio 2015\Projects\Basics\SabioCSharp\passingRefrenceTypes\passingRefrenceTypes\bin\Debug\passingRefrenceTypes.exe
+C:\Users\William\Documents\Visual Studio 2015\Projects\Basics\SabioCSharp\passingRefrenceTypes\passingRefrenceTypes\bin\Debug\passingRefrenceTypes.pdb
